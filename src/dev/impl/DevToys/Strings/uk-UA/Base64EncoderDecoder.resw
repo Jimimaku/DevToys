@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Base64 енкодер та декодер</value>
+    <value>Інструмент для кодування та декодування тексту Base64</value>
   </data>
   <data name="Ascii" xml:space="preserve">
     <value>ASCII</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>Налаштування</value>
+    <value>Конфігурація</value>
   </data>
   <data name="ConversionDecode" xml:space="preserve">
     <value>Декодувати</value>
@@ -136,7 +136,7 @@
     <value>Закодувати</value>
   </data>
   <data name="ConversionTitle" xml:space="preserve">
-    <value>Конвертація</value>
+    <value>Перетворення</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
     <value>Текст Base64</value>
@@ -148,7 +148,7 @@
     <value>Кодування</value>
   </data>
   <data name="InputTitle" xml:space="preserve">
-    <value>Ввід</value>
+    <value>Поле введення</value>
   </data>
   <data name="OutputTitle" xml:space="preserve">
     <value>Результат</value>
@@ -157,7 +157,7 @@
     <value>UTF-8</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Кодування та декодування Base64</value>
+    <value>Кодування та декодування текстових даних Base64</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
     <value>Base64 енкодер / декодер</value>

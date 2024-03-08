@@ -124,7 +124,7 @@
     <value>Configurazione</value>
   </data>
   <data name="UseSecondsDescription" xml:space="preserve">
-    <value>Scegli se l'espressione Cron deve includere i secondi nella definizione</value>
+    <value>Scegli se l'espressione Cron deve includere i secondi nella sua definizione</value>
   </data>
   <data name="UseSecondsTitle" xml:space="preserve">
     <value>Modalità Cron</value>
@@ -172,9 +172,9 @@
     <value>Secondi compresi (6 - segmenti Cron)</value>
   </data>
   <data name="DescriptionTitle" xml:space="preserve">
-    <value>Description</value>
+    <value>Descrizione</value>
   </data>
   <data name="DescriptionErrorMessage" xml:space="preserve">
-    <value>Unable to generate description</value>
+    <value>Impossibile generare descrizioni</value>
   </data>
 </root>

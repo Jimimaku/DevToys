@@ -166,10 +166,10 @@
     <value>Orden alfabético inverso</value>
   </data>
   <data name="AlphabetizeLast" xml:space="preserve">
-    <value>Alphabetize by last word</value>
+    <value>Alfabetizar por última palabra</value>
   </data>
   <data name="ReverseAlphabetizeLast" xml:space="preserve">
-    <value>Reverse alphabetize by last word</value>
+    <value>Revertir el alfabetizar por última palabra</value>
   </data>
   <data name="Reverse" xml:space="preserve">
     <value>Invertir</value>
@@ -187,7 +187,7 @@
     <value>minúscula</value>
   </data>
   <data name="OriginalCase" xml:space="preserve">
-    <value>Texto Original</value>
+    <value>Texto original</value>
   </data>
   <data name="Paragraphs" xml:space="preserve">
     <value>Párrafos:</value>

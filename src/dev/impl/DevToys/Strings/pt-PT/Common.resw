@@ -138,6 +138,12 @@
   <data name="Expand" xml:space="preserve">
     <value>Expandir</value>
   </data>
+  <data name="ShowInfo" xml:space="preserve">
+    <value>Mostrar informação adicional</value>
+  </data>
+  <data name="HideInfo" xml:space="preserve">
+    <value>Ocultar informação adicional</value>
+  </data>
   <data name="FileSelectorBrowseFiles" xml:space="preserve">
     <value>Procurar ficheiros</value>
   </data>

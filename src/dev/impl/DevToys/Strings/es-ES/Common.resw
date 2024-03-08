@@ -124,7 +124,7 @@
     <value>Limpiar</value>
   </data>
   <data name="Collapse" xml:space="preserve">
-    <value>Collapse</value>
+    <value>Ocultar</value>
   </data>
   <data name="Copy" xml:space="preserve">
     <value>Copiar</value>
@@ -136,7 +136,13 @@
     <value>Eliminar</value>
   </data>
   <data name="Expand" xml:space="preserve">
-    <value>Expand</value>
+    <value>Expandir</value>
+  </data>
+  <data name="ShowInfo" xml:space="preserve">
+    <value>Mostrar información adicional</value>
+  </data>
+  <data name="HideInfo" xml:space="preserve">
+    <value>Esconder información adicional</value>
   </data>
   <data name="FileSelectorBrowseFiles" xml:space="preserve">
     <value>Examinar archivos</value>
@@ -145,17 +151,17 @@
     <value>Examinar carpetas</value>
   </data>
   <data name="FileSelectorDragDropAnyFile" xml:space="preserve">
-    <value>Arrastre y Suelte un archivo aquí</value>
+    <value>Arrastre y suelte un archivo aquí</value>
   </data>
   <data name="FileSelectorDragDropAnyFiles" xml:space="preserve">
-    <value>Arrastre y Suelte algunos archivos aquí</value>
+    <value>Arrastre y suelte algunos archivos aquí</value>
   </data>
   <data name="FileSelectorDragDropAnySpecificFile" xml:space="preserve">
-    <value>Arrastre y Suelte un archivo {0} aquí</value>
+    <value>Arrastre y suelte un archivo {0} aquí</value>
     <comment>{0} is a single file extension like "PNG"</comment>
   </data>
   <data name="FileSelectorDragDropAnySpecificFiles" xml:space="preserve">
-    <value>Arrastre y Suelte algunos archivos {0} aquí</value>
+    <value>Arrastre y suelte algunos archivos {0} aquí</value>
     <comment>{0} is a list of file extensions like "PNG, TXT, JPG"</comment>
   </data>
   <data name="FileSelectorInvalidSelectedFiles" xml:space="preserve">
@@ -187,7 +193,7 @@
     <value>Rehacer</value>
   </data>
   <data name="Refresh" xml:space="preserve">
-    <value>Recargar</value>
+    <value>Actualizar</value>
   </data>
   <data name="SaveAs" xml:space="preserve">
     <value>Guardar como</value>
@@ -214,7 +220,7 @@
     <value>Deshacer</value>
   </data>
   <data name="ViewImage" xml:space="preserve">
-    <value>Vista</value>
+    <value>Ver</value>
     <comment>In the context of "view / display an image".</comment>
   </data>
 </root>
